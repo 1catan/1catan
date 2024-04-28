@@ -1,6 +1,5 @@
 ## Hi there, I'm Jonas! 👋
 
-- 👨‍💻 I'm currently honing my skills as a software developer.
 - 📫 How to reach me: 
   - Discord: catan
 
